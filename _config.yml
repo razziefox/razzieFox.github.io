@@ -1,5 +1,7 @@
 title: Florencio Olsen (florencio-o)
  
+permalink: /:slug.html
+ 
 remote_theme: abhinavs/moonwalk
 
 theme_config:
