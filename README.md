@@ -1,5 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <link rel="icon" href="favicon.ico">
+<link rel="apple-touch-icon" href="favicon.ico">
 
 Hello, my name is Florencio! I am small developer who makes tiny games as a hobby and currently studying software development.
 
