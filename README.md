@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 Hello, my name is Florencio! I am small developer who makes tiny games as a hobby and currently studying software development.
 
 # Projects I've worked on
