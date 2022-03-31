@@ -1,8 +1,7 @@
-[Github](https://github.com/florencio-o/) | [Itch.io](https://florencio-o.itch.io/) \
-Small developer who makes tiny games as a hobby
-
+[Github](https://github.com/razzie-dev/) | [Itch.io](https://razzie-dev.itch.io/) \
+Hello, my name is Florencio! I am small developer who makes tiny games as a hobby and currently studying software development.
 
 # Projects I've worked on
-* [Delivery Flaps FBLA](https://florencio-o.itch.io/df-fbla) ([Source](https://github.com/florencio-o/df-fbla))
-* [Bubbly](https://florencio-o.itch.io/bubbly)
-* [Dashton](https://florencio-o.itch.io/dashton)
+* [Dashton](https://razzie-dev.itch.io/dashton)
+* [Bubbly](https://razzie-dev.itch.io/bubbly)
+* [Delivery Flaps FBLA](https://razzie-dev.itch.io/df-fbla) ([Source](https://github.com/razzie-dev/df-fbla))

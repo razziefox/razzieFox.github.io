@@ -1,0 +1,6 @@
+navbar_entries:
+  - title: home
+    url: /
+
+  - title: experiments
+    url: /experiments/
